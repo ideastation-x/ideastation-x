@@ -1,4 +1,4 @@
-<h1>Hi, I’m Phumin</h1> 
+<h2>👋</h2> 
 <p>Nice to meet you all :D</p>
 
 <!---
