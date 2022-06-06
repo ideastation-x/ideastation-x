@@ -1,7 +1,5 @@
-<h2>👋</h2> 
-<p>Nice to meet you all :D</p>
+# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Phumin Chumphu
+[![](https://img.shields.io/badge/-@ideastation-%23181717?style=flat-square&logo=github)](https://github.com/ideastation-x)
 
-<!---
-ideastation-x/ideastation-x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ideastation-x&show_icons=true&theme=dark)
+
