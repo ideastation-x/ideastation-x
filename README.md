@@ -5,23 +5,6 @@
   <a href="https://www.linkedin.com/in/phumin-chumphu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 </p>
 
-## Tech Knowledge 
-### Frontend
-<p>
-  <img alt="VueJS" src="https://img.shields.io/badge/-Vuejs-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white" />&nbsp;
-  <img alt="Livewire" src="https://img.shields.io/badge/-Livewire-4E56A6?style=for-the-badge&logo=Livewire&logoColor=white" />&nbsp;
-  <img alt="Tailwindcss" src="https://img.shields.io/badge/-TailwindCss-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;
-  <img alt="AlpineJS" src="https://img.shields.io/badge/-Alpine.JS-77c1d2?style=for-the-badge&logo=Alpine.js&logoColor=white" />&nbsp; 
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />&nbsp;
-</p>
-
-### Backend
-<p>
-  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=Laravel&logoColor=white" />&nbsp;
-  <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white" />&nbsp;  
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />&nbsp;
-</p>
-
 ### Dev Tool
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
